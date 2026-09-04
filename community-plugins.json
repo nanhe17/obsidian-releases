@@ -50727,5 +50727,12 @@
     "author": "askMyu",
     "description": "Capture your journal notes to askMyu, encrypted before they leave, and read your day beside your vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "askmyu/askmyu-obsidian-plugin"
+  },
+  {
+    "id": "ocard",
+    "name": "Ocard",
+    "author": "nanhe17",
+    "description": "Turn any selection into a beautiful card, review them with active recall and spaced repetition.",
+    "repo": "nanhe17/ocard"
   }
 ]
